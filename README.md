@@ -1,6 +1,6 @@
 ### Hi there 👋
-******
-#### Developer, philosopher(fake), musician (classical), writer.
+-----
+#### Developer, philosopher(fake), musician (classical).
 
 - 🔭 I’m currently working on [@Meituan](https://meituan.com/) (China/Beijing).
 - 📚 I have a Bachelor's degree in Computer Science
