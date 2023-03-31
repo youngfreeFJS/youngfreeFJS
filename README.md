@@ -6,6 +6,8 @@
 
 #### Developer, philosopher(fake), musician (classical).
 
+##### we are hiring：(here)[https://zhaopin.meituan.com/m/position/detail?jobUnionId=1429870938&highlightType=social&jobShareType=2&staffSsoId=2671788&token=ed5d0edd3b3448fb9d65626037e1302a]
+
 - 🔭 I’m currently working on [@Meituan](https://meituan.com/) (Beijing, China).
 - 📚 I have a Bachelor's degree in Computer Science
 - ✨ I am currently working with Node, Java, Python, Swift, [Appium](https://github.com/appium/appium), [Lyrebird](https://github.com/Meituan-Dianping/lyrebird) and others stuff.
